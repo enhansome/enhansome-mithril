@@ -1,0 +1,525 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-16T19:46:08Z",
+            "owner": "MithrilJS",
+            "repo": "mithril.js",
+            "stars": 14508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Job listing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-16T19:46:08Z",
+            "owner": "MithrilJS",
+            "repo": "mithril.js",
+            "stars": 14508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Who uses Mithril?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-16T19:46:08Z",
+            "owner": "MithrilJS",
+            "repo": "mithril.js",
+            "stars": 14508
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learn"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tutanota",
+          "description": "Secure emails for everybody.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:02:32Z",
+            "owner": "tutao",
+            "repo": "tutanota",
+            "stars": 7849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flems",
+          "description": "Web playground & sandbox as an embeddable module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-03T06:47:23Z",
+            "owner": "porsager",
+            "repo": "flems",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Treehouse",
+          "description": "Lightweight outliner app built with Deno and Mithril. Use in the browser or build your own custom app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-31T03:59:09Z",
+            "owner": "treehousedev",
+            "repo": "treehouse",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Isomorphic web application with Mithril",
+          "description": "Server-side rendering example using mithril-node-render.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-05T10:51:32Z",
+            "owner": "mvlabs",
+            "repo": "isomorphic-mithril",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mithril-slides",
+          "description": "Keynote-inspired presentation app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-08-26T05:16:26Z",
+            "owner": "wulab",
+            "repo": "mithril-slides",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freddy",
+          "description": "Mobile Reddit Reader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-05-23T16:25:31Z",
+            "owner": "spacejack",
+            "repo": "freddy",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vegan",
+          "description": "Minimalistic \"Kanban boardish\" client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-08-17T23:30:48Z",
+            "owner": "mrdaak",
+            "repo": "vegan",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaveShader",
+          "description": "Audio wave sketchpad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-03-03T21:53:06Z",
+            "owner": "spacejack",
+            "repo": "waveshader",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mithril tutorial app",
+          "description": "The tutorial app from mithril.js.org adapted to Typescript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-08-16T19:27:45Z",
+            "owner": "spacejack",
+            "repo": "mithril-tutorial-ts",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gomithrilapp",
+          "description": "Sample notepad application in Mithril (JSX) and Go showing good practices and integrations with modern tools using Bulma, Cypress, Docker, ESLint, gvt, make, Rove, Swagger, and Travis-CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-01-07T16:32:27Z",
+            "owner": "josephspurrier",
+            "repo": "gomithrilapp",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gomithriltsapp",
+          "description": "Sample notepad application in Mithril (TypeScript and HyperScript) and Go showing good practices and integrations with modern tools using Bulma, Cypress, Docker, ESLint, gvt, make, Mock Service Worker, Rove, Swagger, and Travis-CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-01-07T20:33:41Z",
+            "owner": "josephspurrier",
+            "repo": "gomithriltsapp",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Infinite Scroll for Mithril on mobile and desktop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-07-20T13:47:03Z",
+            "owner": "ArthurClemens",
+            "repo": "mithril-infinite",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modal component example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-07T19:12:28Z",
+            "owner": "spacejack",
+            "repo": "mithril-modal",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple carousel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-16T04:19:55Z",
+            "owner": "spacejack",
+            "repo": "m-carousel",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Snippets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mithril-starter-kit",
+          "description": "A boilerplate Mithril application using Webpack 4, ES6, Sass/SCSS, Js and scss hot reload and eslint",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-02-27T20:54:32Z",
+            "owner": "dhinesh03",
+            "repo": "mithril-starter-kit",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sourcestack",
+          "description": "Template for full-stack Typescript web apps on AWS, using Mithril on the front end.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-11T04:21:30Z",
+            "owner": "stackplanet",
+            "repo": "sourcestack",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game development with Mithril/THREE.js/Typescript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T16:21:38Z",
+            "owner": "spacejack",
+            "repo": "three-mithril-ts",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mithril Starter Project with Rollup, Babel, LiveReload, Jest and ESLint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-24T22:13:07Z",
+            "owner": "ArthurClemens",
+            "repo": "mithril-starter-rollup",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mithril/Typescript/PostCSS/Browserify/HMR/Budō",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T16:12:12Z",
+            "owner": "spacejack",
+            "repo": "mithril-browserify-ts-budo",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mithril/Typescript/SASS/PostCSS/Webpack2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-07T21:08:06Z",
+            "owner": "spacejack",
+            "repo": "mithril-webpack-ts",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Starter kits"
+    },
+    {
+      "description": "Mithril does not require specialized tools for testing, however the following have been developed as side projects to the main framework or by the community.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ospec",
+          "description": "Mithril's own fast test runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-16T19:46:08Z",
+            "owner": "MithrilJS",
+            "repo": "mithril.js",
+            "stars": 14508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mithril Query",
+          "description": "Query Mithril virtual dom for testing purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-06T07:54:51Z",
+            "owner": "MithrilJS",
+            "repo": "mithril-query",
+            "stars": 106
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polythene",
+          "description": "Material Design for Mithril and React.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-07-18T19:30:18Z",
+            "owner": "ArthurClemens",
+            "repo": "polythene",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mopt",
+          "description": "Optimize calls to javascript objects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-06-04T20:18:48Z",
+            "owner": "MithrilJS",
+            "repo": "mopt",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mithril-helpers",
+          "description": "Collection of Mithril helpers and utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-23T20:28:18Z",
+            "owner": "dead-claudia",
+            "repo": "mithril-helpers",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mithril-Datepicker",
+          "description": "Localizable date picker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-16T13:06:37Z",
+            "owner": "CreaturesInUnitards",
+            "repo": "mithril-datepicker",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mithril-portal",
+          "description": "a component for rendering inline children to",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-04T15:22:03Z",
+            "owner": "vrimar",
+            "repo": "mithril-portal",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mithril-graphql",
+          "description": "A lightweight GraphQL client for the Mithril framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2021-07-24T13:21:20Z",
+            "owner": "benthepoet",
+            "repo": "mithril-graphql",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mithril-transition-group",
+          "description": "Components for creating state/class based transitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T02:29:45Z",
+            "owner": "vrimar",
+            "repo": "mithril-transition-group",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "famicon",
+          "description": "Fontawesome svg icons component for mithril",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-10T18:20:14Z",
+            "owner": "arisris",
+            "repo": "famicon",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Libraries, Components & Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:19:57.216Z",
+    "original_repository": "orbitbot/awesome-mithril",
+    "original_repository_sha": "86996028f761b71ba5c10e543cb3238761037300",
+    "enhanced_repository": "enhansome/enhansome-mithril",
+    "enhanced_repository_description": null,
+    "title": "Awesome Mithril with stars"
+  }
+}
