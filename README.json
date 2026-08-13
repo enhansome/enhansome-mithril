@@ -72,7 +72,7 @@
             "last_commit": "2026-08-12T16:02:32Z",
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 7849
+            "stars": 7850
           }
         },
         {
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:19:57.216Z",
+    "last_updated": "2026-08-13T07:16:35.504Z",
     "original_repository": "orbitbot/awesome-mithril",
     "original_repository_sha": "86996028f761b71ba5c10e543cb3238761037300",
     "enhanced_repository": "enhansome/enhansome-mithril",
