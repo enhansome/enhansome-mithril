@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-16T19:46:08Z",
+            "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14508
+            "stars": 14507
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-16T19:46:08Z",
+            "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14508
+            "stars": 14507
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-16T19:46:08Z",
+            "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14508
+            "stars": 14507
           }
         }
       ],
@@ -69,10 +69,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:02:32Z",
+            "last_commit": "2026-08-14T07:12:53Z",
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 7850
+            "stars": 7853
           }
         },
         {
@@ -367,10 +367,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-16T19:46:08Z",
+            "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14508
+            "stars": 14507
           }
         },
         {
@@ -381,7 +381,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-06T07:54:51Z",
+            "last_commit": "2026-08-13T09:51:57Z",
             "owner": "MithrilJS",
             "repo": "mithril-query",
             "stars": 106
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:16:35.504Z",
+    "last_updated": "2026-08-14T07:14:11.621Z",
     "original_repository": "orbitbot/awesome-mithril",
     "original_repository_sha": "86996028f761b71ba5c10e543cb3238761037300",
     "enhanced_repository": "enhansome/enhansome-mithril",
