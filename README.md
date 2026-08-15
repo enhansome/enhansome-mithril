@@ -52,7 +52,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 #### Apps
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,853 | 🐛 964 | 🌐 TypeScript | 📅 2026-08-14 - Secure emails for everybody.
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,852 | 🐛 965 | 🌐 TypeScript | 📅 2026-08-14 - Secure emails for everybody.
 * [Flems](https://github.com/porsager/flems) ⭐ 538 | 🐛 28 | 🌐 JavaScript | 📅 2023-11-03 - Web playground & sandbox as an embeddable module.
 * [Treehouse](https://github.com/treehousedev/treehouse) ⭐ 188 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-31 - Lightweight outliner app built with Deno and Mithril. Use in the browser or build your own custom app.
 * [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril) ⭐ 30 | 🐛 2 | 🌐 JavaScript | 📅 2018-11-05 - Server-side rendering example using [mithril-node-render](https://github.com/MithrilJS/mithril-node-render) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-19.
@@ -137,4 +137,4 @@ Mithril does not require specialized tools for testing, however the following ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
