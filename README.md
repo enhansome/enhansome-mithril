@@ -25,9 +25,9 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/MithrilJS/mithril.js) ⭐ 14,491 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13
-* [Job listing](https://github.com/MithrilJS/mithril.js/wiki/JOBS) ⭐ 14,491 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13
-* [Who uses Mithril?](https://github.com/MithrilJS/mithril.js/wiki/Who-Uses-Mithril) ⭐ 14,491 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13
+* [GitHub Repo](https://github.com/MithrilJS/mithril.js) ⭐ 14,490 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13
+* [Job listing](https://github.com/MithrilJS/mithril.js/wiki/JOBS) ⭐ 14,490 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13
+* [Who uses Mithril?](https://github.com/MithrilJS/mithril.js/wiki/Who-Uses-Mithril) ⭐ 14,490 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13
 * [Website](https://mithril.js.org/)
 * [Simple Application Tutorial](https://mithril.js.org/simple-application.html)
 * [API Reference](https://mithril.js.org/api.html)
@@ -52,7 +52,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 #### Apps
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,855 | 🐛 966 | 🌐 TypeScript | 📅 2026-08-14 - Secure emails for everybody.
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,858 | 🐛 970 | 🌐 TypeScript | 📅 2026-08-17 - Secure emails for everybody.
 * [Flems](https://github.com/porsager/flems) ⭐ 538 | 🐛 28 | 🌐 JavaScript | 📅 2023-11-03 - Web playground & sandbox as an embeddable module.
 * [Treehouse](https://github.com/treehousedev/treehouse) ⭐ 188 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-31 - Lightweight outliner app built with Deno and Mithril. Use in the browser or build your own custom app.
 * [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril) ⭐ 30 | 🐛 2 | 🌐 JavaScript | 📅 2018-11-05 - Server-side rendering example using [mithril-node-render](https://github.com/MithrilJS/mithril-node-render) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-19.
@@ -94,7 +94,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 Mithril does not require specialized tools for testing, however the following have been developed as side projects to the main framework or by the community.
 
-* [Ospec](https://github.com/MithrilJS/mithril.js/tree/rewrite/ospec) ⭐ 14,491 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13 - Mithril's own fast test runner.
+* [Ospec](https://github.com/MithrilJS/mithril.js/tree/rewrite/ospec) ⭐ 14,490 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13 - Mithril's own fast test runner.
 * [Mithril Query](https://github.com/MithrilJS/mithril-query) ⭐ 106 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-17 - Query Mithril virtual dom for testing purposes.
 
 ### Libraries, Components & Plugins
@@ -106,7 +106,7 @@ Mithril does not require specialized tools for testing, however the following ha
 * [mithril-portal](https://github.com/vrimar/mithril-portal) ⭐ 16 | 🐛 2 | 🌐 TypeScript | 📅 2024-02-04 - a component for rendering inline children to `document.body`
 * [mithril-graphql](https://github.com/benthepoet/mithril-graphql) ⭐ 12 | 🐛 0 | 🌐 CoffeeScript | 📅 2021-07-24 - A lightweight GraphQL client for the Mithril framework.
 * [mithril-transition-group](https://github.com/vrimar/mithril-transition-group) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2023-03-04 - Components for creating state/class based transitions.
-* [famicon](https://github.com/kliksob/famicon) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-10 - Fontawesome svg icons component for mithril
+* [famicon](https://github.com/kliksob/famicon) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-10 - Fontawesome svg icons component for mithril
 * [mithril-range](https://www.npmjs.com/package/mithril-range) - Customizable range component.
 * [mithril-select](https://www.npmjs.com/package/mithril-select) - Customizable select component.
 * [TypeScript types](https://www.npmjs.com/package/@types/mithril) - Typescript type definitions for Mithril.
@@ -124,7 +124,7 @@ Mithril does not require specialized tools for testing, however the following ha
 ### pre 1.0 Release
 
 * [Leo's Blog](http://lhorie.github.io/mithril-blog/) - Leo, the main Mithril author, writes about virtual dom and tips and tricks.
-* [Github Wiki](https://github.com/MithrilJS/mithril.js/wiki) ⭐ 14,491 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13 - Wiki content is mostly about the 0.2 version, some material may be more up to date with the current API.
+* [Github Wiki](https://github.com/MithrilJS/mithril.js/wiki) ⭐ 14,490 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13 - Wiki content is mostly about the 0.2 version, some material may be more up to date with the current API.
 
 ### Mithril in the Wild
 
@@ -137,4 +137,4 @@ Mithril does not require specialized tools for testing, however the following ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14491
+            "stars": 14490
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14491
+            "stars": 14490
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14491
+            "stars": 14490
           }
         }
       ],
@@ -69,10 +69,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:56:50Z",
+            "last_commit": "2026-08-17T16:18:49Z",
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 7855
+            "stars": 7858
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14491
+            "stars": 14490
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2021-08-10T18:20:14Z",
             "owner": "arisris",
             "repo": "famicon",
-            "stars": 4
+            "stars": 5
           }
         }
       ],
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:38:50.742Z",
+    "last_updated": "2026-08-18T06:30:11.811Z",
     "original_repository": "orbitbot/awesome-mithril",
     "original_repository_sha": "86996028f761b71ba5c10e543cb3238761037300",
     "enhanced_repository": "enhansome/enhansome-mithril",
