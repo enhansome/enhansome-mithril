@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14491
+            "stars": 14490
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14491
+            "stars": 14490
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14491
+            "stars": 14490
           }
         }
       ],
@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T17:50:02Z",
+                "last_commit": "2026-08-20T22:56:15Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7864
+                "stars": 7866
               }
             },
             {
@@ -393,7 +393,7 @@
             "last_commit": "2026-08-13T09:35:51Z",
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14491
+            "stars": 14490
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2022-07-18T19:30:18Z",
             "owner": "ArthurClemens",
             "repo": "polythene",
-            "stars": 586
+            "stars": 585
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:33:05.152Z",
+    "last_updated": "2026-08-21T06:33:53.496Z",
     "original_repository": "orbitbot/awesome-mithril",
     "original_repository_id": 84966355,
     "original_repository_sha": "86996028f761b71ba5c10e543cb3238761037300",
