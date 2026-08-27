@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:44:34Z",
+                "last_commit": "2026-08-27T15:33:55Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7876
+                "stars": 7875
               }
             },
             {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:54.378Z",
+    "last_updated": "2026-08-27T17:11:14.263Z",
     "original_repository_info": {
       "archived": false,
       "id": 84966355,
