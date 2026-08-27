@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T17:10:16Z",
+                "last_commit": "2026-08-27T11:44:34Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7874
+                "stars": 7876
               }
             },
             {
@@ -542,9 +542,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:35:30.994Z",
-    "original_repository": "orbitbot/awesome-mithril",
-    "original_repository_id": 84966355,
+    "last_updated": "2026-08-27T11:49:54.378Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 84966355,
+      "language": null,
+      "last_commit": "2023-05-12T08:32:14Z",
+      "owner": "orbitbot",
+      "repo": "awesome-mithril",
+      "stars": 211
+    },
     "original_repository_sha": "86996028f761b71ba5c10e543cb3238761037300",
     "enhanced_repository": "enhansome/enhansome-mithril",
     "enhanced_repository_description": null,
