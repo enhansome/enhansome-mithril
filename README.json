@@ -16,7 +16,8 @@
             "owner": "MithrilJS",
             "repo": "mithril.js",
             "stars": 14493
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "MithrilJS",
             "repo": "mithril.js",
             "stars": 14493
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "MithrilJS",
             "repo": "mithril.js",
             "stars": 14493
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         }
       ],
       "title": "Official Resources"
@@ -65,11 +68,12 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:33:55Z",
+                "last_commit": "2026-08-28T17:03:40Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7875
-              }
+                "stars": 7878
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "porsager",
                 "repo": "flems",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "treehousedev",
                 "repo": "treehouse",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "mvlabs",
                 "repo": "isomorphic-mithril",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "wulab",
                 "repo": "mithril-slides",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "spacejack",
                 "repo": "freddy",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "mrdaak",
                 "repo": "vegan",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "spacejack",
                 "repo": "waveshader",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "spacejack",
                 "repo": "mithril-tutorial-ts",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "josephspurrier",
                 "repo": "gomithrilapp",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "josephspurrier",
                 "repo": "gomithriltsapp",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             }
           ],
           "description": null,
@@ -241,7 +255,8 @@
                 "owner": "ArthurClemens",
                 "repo": "mithril-infinite",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "spacejack",
                 "repo": "mithril-modal",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "spacejack",
                 "repo": "m-carousel",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             }
           ],
           "description": null,
@@ -293,7 +310,8 @@
                 "owner": "dhinesh03",
                 "repo": "mithril-starter-kit",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "stackplanet",
                 "repo": "sourcestack",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "spacejack",
                 "repo": "three-mithril-ts",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "ArthurClemens",
                 "repo": "mithril-starter-rollup",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -353,7 +374,8 @@
                 "owner": "spacejack",
                 "repo": "mithril-browserify-ts-budo",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             },
             {
               "node_type": "item",
@@ -368,7 +390,8 @@
                 "owner": "spacejack",
                 "repo": "mithril-webpack-ts",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:58:16.807Z"
             }
           ],
           "description": null,
@@ -394,7 +417,8 @@
             "owner": "MithrilJS",
             "repo": "mithril.js",
             "stars": 14493
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -409,7 +433,8 @@
             "owner": "MithrilJS",
             "repo": "mithril-query",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         }
       ],
       "title": "Testing"
@@ -430,7 +455,8 @@
             "owner": "ArthurClemens",
             "repo": "polythene",
             "stars": 585
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -445,7 +471,8 @@
             "owner": "MithrilJS",
             "repo": "mopt",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -460,7 +487,8 @@
             "owner": "dead-claudia",
             "repo": "mithril-helpers",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -475,7 +503,8 @@
             "owner": "CreaturesInUnitards",
             "repo": "mithril-datepicker",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -490,7 +519,8 @@
             "owner": "vrimar",
             "repo": "mithril-portal",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -505,7 +535,8 @@
             "owner": "benthepoet",
             "repo": "mithril-graphql",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -520,7 +551,8 @@
             "owner": "vrimar",
             "repo": "mithril-transition-group",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         },
         {
           "node_type": "item",
@@ -535,14 +567,15 @@
             "owner": "arisris",
             "repo": "famicon",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:58:16.807Z"
         }
       ],
       "title": "Libraries, Components & Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:11:14.263Z",
+    "last_updated": "2026-08-28T17:58:16.807Z",
     "original_repository_info": {
       "archived": false,
       "id": 84966355,
