@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript Framework for Building Brilliant Applications",
+            "homepage": "https://mithril.js.org",
             "id": 17814354,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T09:35:51Z",
+            "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14493
+            "stars": 14493,
+            "topics": [
+              "framework",
+              "javascript",
+              "mithril",
+              "router",
+              "vdom",
+              "virtual-dom",
+              "xhr"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -26,12 +39,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript Framework for Building Brilliant Applications",
+            "homepage": "https://mithril.js.org",
             "id": 17814354,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T09:35:51Z",
+            "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14493
+            "stars": 14493,
+            "topics": [
+              "framework",
+              "javascript",
+              "mithril",
+              "router",
+              "vdom",
+              "virtual-dom",
+              "xhr"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -42,12 +68,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript Framework for Building Brilliant Applications",
+            "homepage": "https://mithril.js.org",
             "id": 17814354,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T09:35:51Z",
+            "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14493
+            "stars": 14493,
+            "topics": [
+              "framework",
+              "javascript",
+              "mithril",
+              "router",
+              "vdom",
+              "virtual-dom",
+              "xhr"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         }
@@ -66,12 +105,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
+                "homepage": "https://tuta.com",
                 "id": 22344874,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T17:03:40Z",
+                "open_issues": 998,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7878
+                "stars": 7879,
+                "topics": [
+                  "email",
+                  "encryption",
+                  "javascript",
+                  "mithril",
+                  "privacy",
+                  "security",
+                  "tutanota"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -82,12 +134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A single file web playground and sandbox",
+                "homepage": null,
                 "id": 104206646,
                 "language": "JavaScript",
+                "license": "WTFPL",
                 "last_commit": "2023-11-03T06:47:23Z",
+                "open_issues": 28,
                 "owner": "porsager",
                 "repo": "flems",
-                "stars": 538
+                "stars": 538,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -98,12 +155,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://treehouse.sh",
                 "id": 579464474,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-31T03:59:09Z",
+                "open_issues": 20,
                 "owner": "treehousedev",
                 "repo": "treehouse",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "deno",
+                  "frontend",
+                  "javascript",
+                  "knowledge-graph",
+                  "mithriljs",
+                  "note-taking",
+                  "notes",
+                  "org-mode",
+                  "organizer",
+                  "outliner",
+                  "productivity",
+                  "self-hosted",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -114,12 +190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Showcase of the challenges that we faced implementing an isomorphic web application with Mithril",
+                "homepage": null,
                 "id": 85596099,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-11-05T10:51:32Z",
+                "open_issues": 2,
                 "owner": "mvlabs",
                 "repo": "isomorphic-mithril",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -130,12 +211,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keynote-inspired presentation app written with Mithril",
+                "homepage": "https://mithril-slides.onrender.com",
                 "id": 33370721,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2018-08-26T05:16:26Z",
+                "open_issues": 5,
                 "owner": "wulab",
                 "repo": "mithril-slides",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "javascript",
+                  "json",
+                  "keynote",
+                  "mithril",
+                  "presentation"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -146,12 +238,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast mobile Reddit reader web app",
+                "homepage": null,
                 "id": 39734432,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-05-23T16:25:31Z",
+                "open_issues": 2,
                 "owner": "spacejack",
                 "repo": "freddy",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "mithriljs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -162,12 +262,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Minimalistic \"Kanban boardish\" client",
+                "homepage": "https://mrdaak.github.io/vegan/",
                 "id": 221081954,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-08-17T23:30:48Z",
+                "open_issues": 0,
                 "owner": "mrdaak",
                 "repo": "vegan",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "javascript",
+                  "kanban",
+                  "mithril",
+                  "tachyons"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -178,12 +288,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WaveShader - A GLSL audio wave sketchpad",
+                "homepage": null,
                 "id": 173633076,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2019-03-03T21:53:06Z",
+                "open_issues": 0,
                 "owner": "spacejack",
                 "repo": "waveshader",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "audio",
+                  "glsl",
+                  "javascript",
+                  "typescript",
+                  "waveform"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -194,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mithril Simple App Tutorial - Typescript",
+                "homepage": null,
                 "id": 81770947,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-08-16T19:27:45Z",
+                "open_issues": 0,
                 "owner": "spacejack",
                 "repo": "mithril-tutorial-ts",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -210,12 +336,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample notepad application in Mithril (JSX) and Go showing good practices and integrations with modern tools. This project uses Bulma, Cypress, Docker, ESLint, gvt, make, Mock Service Worker, Rove, Storybook, Swagger, and Travis-CI.",
+                "homepage": "https://josephspurrier.github.io/gomithrilapp",
                 "id": 251292405,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-01-07T16:32:27Z",
+                "open_issues": 37,
                 "owner": "josephspurrier",
                 "repo": "gomithrilapp",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "bulma",
+                  "cypress",
+                  "docker",
+                  "eslint",
+                  "golang",
+                  "jsx",
+                  "makefile",
+                  "mithril",
+                  "notepad-application",
+                  "storybook",
+                  "swagger",
+                  "travis-ci",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -226,12 +371,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample notepad application in Mithril (TypeScript and Hyperscript) and Go showing good practices and integrations with modern tools. This project uses Bulma, Cypress, Docker, ESLint, gvt, make, Mock Service Worker, Rove, Storybook, Swagger, and Travis-CI.",
+                "homepage": null,
                 "id": 282736693,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-01-07T20:33:41Z",
+                "open_issues": 22,
                 "owner": "josephspurrier",
                 "repo": "gomithriltsapp",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "bulma",
+                  "cypress",
+                  "docker",
+                  "golang",
+                  "hyperscript",
+                  "makefile",
+                  "mithril",
+                  "notepad-application",
+                  "storybook",
+                  "swagger",
+                  "typescript",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             }
@@ -249,12 +412,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Infinite scroll for Mithril",
+                "homepage": null,
                 "id": 36990514,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-07-20T13:47:03Z",
+                "open_issues": 13,
                 "owner": "ArthurClemens",
                 "repo": "mithril-infinite",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "infinite-scroll",
+                  "mithril"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -265,12 +436,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modal example for Mithril.js",
+                "homepage": null,
                 "id": 138415792,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-03-07T19:12:28Z",
+                "open_issues": 0,
                 "owner": "spacejack",
                 "repo": "mithril-modal",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "mithriljs"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -281,12 +459,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mithril 1.0 Carousel Demo",
+                "homepage": null,
                 "id": 77568432,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-04-16T04:19:55Z",
+                "open_issues": 0,
                 "owner": "spacejack",
                 "repo": "m-carousel",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             }
@@ -304,12 +487,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mithril Starter Kit — A boilerplate Mithril application using ES6, Babel, Webpack 4, Sass/SCSS, Webpack dev server hot reload and eslint",
+                "homepage": "https://dhinesh03.github.io/mithril-starter-kit/",
                 "id": 108125218,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-27T20:54:32Z",
+                "open_issues": 2,
                 "owner": "dhinesh03",
                 "repo": "mithril-starter-kit",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "babel",
+                  "boilerplate-mithril-application",
+                  "css-hot-loader",
+                  "es6",
+                  "eslint",
+                  "hot-reload",
+                  "mithril",
+                  "mithril-starter",
+                  "mithriljs",
+                  "sass",
+                  "scss",
+                  "starter-kit",
+                  "webpack4"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -320,12 +522,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly adaptable template for full-stack Typescript web apps.",
+                "homepage": null,
                 "id": 278010020,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-11T04:21:30Z",
+                "open_issues": 23,
                 "owner": "stackplanet",
                 "repo": "sourcestack",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "aws",
+                  "cdk",
+                  "fullstack",
+                  "nodejs",
+                  "serverless",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -336,12 +550,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "THREE.js, Mithril.js, TypeScript starter project",
+                "homepage": null,
                 "id": 114598392,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-12-10T16:21:38Z",
+                "open_issues": 14,
                 "owner": "spacejack",
                 "repo": "three-mithril-ts",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "mithriljs",
+                  "threejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -352,12 +575,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mithril Starter Project with Rollup, Babel, LiveReload, Jest and ESLint",
+                "homepage": null,
                 "id": 76118088,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-09-24T22:13:07Z",
+                "open_issues": 0,
                 "owner": "ArthurClemens",
                 "repo": "mithril-starter-rollup",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "babel",
+                  "eslint",
+                  "jest",
+                  "livereload",
+                  "mithril",
+                  "rollup"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -368,12 +603,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mithril, Browserify-HMR, TS, Budo, PostCSS starter project",
+                "homepage": null,
                 "id": 90664511,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-12-10T16:12:12Z",
+                "open_issues": 14,
                 "owner": "spacejack",
                 "repo": "mithril-browserify-ts-budo",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "browserify",
+                  "mithriljs",
+                  "postcss",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             },
@@ -384,12 +629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mithril, Webpack, Typescript, SASS Starter Projects",
+                "homepage": null,
                 "id": 90547152,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-05-07T21:08:06Z",
+                "open_issues": 0,
                 "owner": "spacejack",
                 "repo": "mithril-webpack-ts",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
             }
@@ -411,12 +661,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript Framework for Building Brilliant Applications",
+            "homepage": "https://mithril.js.org",
             "id": 17814354,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T09:35:51Z",
+            "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14493
+            "stars": 14493,
+            "topics": [
+              "framework",
+              "javascript",
+              "mithril",
+              "router",
+              "vdom",
+              "virtual-dom",
+              "xhr"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -427,12 +690,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Query mithril virtual dom for testing purposes",
+            "homepage": null,
             "id": 24449985,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T02:09:06Z",
+            "open_issues": 3,
             "owner": "MithrilJS",
             "repo": "mithril-query",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "javascript",
+              "mithril",
+              "selector"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         }
@@ -449,12 +721,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Material Design component library for Mithril and React",
+            "homepage": null,
             "id": 33082960,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-07-18T19:30:18Z",
+            "open_issues": 17,
             "owner": "ArthurClemens",
             "repo": "polythene",
-            "stars": 585
+            "stars": 585,
+            "topics": [
+              "javascript",
+              "material-design",
+              "mithril",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -465,12 +747,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Babel plugin to optimize Mithril m() calls into simple JS objects for speed",
+            "homepage": null,
             "id": 43401975,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-04T20:18:48Z",
+            "open_issues": 2,
             "owner": "MithrilJS",
             "repo": "mopt",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "babel",
+              "build",
+              "mithril",
+              "optimization"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -481,12 +773,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A useful collection of Mithril helpers and utilities.",
+            "homepage": null,
             "id": 101660733,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-04-23T20:28:18Z",
+            "open_issues": 1,
             "owner": "dead-claudia",
             "repo": "mithril-helpers",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "migration",
+              "mithril",
+              "subtree-patching",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -497,12 +799,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pick a date! But only if you're using Mithril. (component for Mithril.js ^v1.0)",
+            "homepage": null,
             "id": 96577675,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-16T13:06:37Z",
+            "open_issues": 5,
             "owner": "CreaturesInUnitards",
             "repo": "mithril-datepicker",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "component",
+              "datepicker",
+              "javascript",
+              "mithril",
+              "mithril-components",
+              "mithril-datepicker",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -513,12 +828,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mithril component for rendering inline children to document.body",
+            "homepage": null,
             "id": 86641422,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-02-04T15:22:03Z",
+            "open_issues": 2,
             "owner": "vrimar",
             "repo": "mithril-portal",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "mithril",
+              "portal"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -529,12 +852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight GraphQL client for the Mithril framework.",
+            "homepage": null,
             "id": 92568554,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2021-07-24T13:21:20Z",
+            "open_issues": 0,
             "owner": "benthepoet",
             "repo": "mithril-graphql",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -545,12 +873,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of Mithril components for creating state/class based transitions",
+            "homepage": null,
             "id": 112819958,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-03-04T02:29:45Z",
+            "open_issues": 1,
             "owner": "vrimar",
             "repo": "mithril-transition-group",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "mithril",
+              "transition"
+            ]
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         },
@@ -561,12 +897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fontawesome icon component for mithril",
+            "homepage": "https://kliksob.github.io/famicon/",
             "id": 235257938,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-08-10T18:20:14Z",
+            "open_issues": 0,
             "owner": "arisris",
             "repo": "famicon",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:58:16.807Z"
         }
@@ -575,15 +916,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:58:16.807Z",
+    "last_updated": "2026-08-29T04:53:03.494Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Mithril awesome",
+      "homepage": null,
       "id": 84966355,
       "language": null,
+      "license": null,
       "last_commit": "2023-05-12T08:32:14Z",
+      "open_issues": 5,
       "owner": "orbitbot",
       "repo": "awesome-mithril",
-      "stars": 211
+      "stars": 211,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "mithril",
+        "mithriljs"
+      ]
     },
     "original_repository_sha": "86996028f761b71ba5c10e543cb3238761037300",
     "enhanced_repository": "enhansome/enhansome-mithril",
