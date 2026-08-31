@@ -110,11 +110,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T17:03:40Z",
-                "open_issues": 998,
+                "last_commit": "2026-08-31T11:53:25Z",
+                "open_issues": 999,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7882,
+                "stars": 7884,
                 "topics": [
                   "email",
                   "encryption",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:59:42.490Z",
+    "last_updated": "2026-08-31T12:20:39.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Mithril awesome",
