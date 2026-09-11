@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14498,
+            "stars": 14499,
             "topics": [
               "framework",
               "javascript",
@@ -48,7 +48,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14498,
+            "stars": 14499,
             "topics": [
               "framework",
               "javascript",
@@ -77,7 +77,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14498,
+            "stars": 14499,
             "topics": [
               "framework",
               "javascript",
@@ -110,11 +110,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T10:14:51Z",
-                "open_issues": 1001,
+                "last_commit": "2026-09-11T10:00:14Z",
+                "open_issues": 1002,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7910,
+                "stars": 7912,
                 "topics": [
                   "email",
                   "encryption",
@@ -670,7 +670,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14498,
+            "stars": 14499,
             "topics": [
               "framework",
               "javascript",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T10:21:33.929Z",
+    "last_updated": "2026-09-11T10:22:27.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Mithril awesome",
