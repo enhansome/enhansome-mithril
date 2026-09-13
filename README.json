@@ -111,7 +111,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T15:33:53Z",
-                "open_issues": 997,
+                "open_issues": 998,
                 "owner": "tutao",
                 "repo": "tutanota",
                 "stars": 7914,
@@ -143,7 +143,7 @@
                 "open_issues": 28,
                 "owner": "porsager",
                 "repo": "flems",
-                "stars": 538,
+                "stars": 539,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
@@ -695,8 +695,8 @@
             "id": 24449985,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-17T02:09:06Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-13T04:56:49Z",
+            "open_issues": 4,
             "owner": "MithrilJS",
             "repo": "mithril-query",
             "stars": 106,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:53:17.665Z",
+    "last_updated": "2026-09-13T10:52:54.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Mithril awesome",

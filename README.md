@@ -52,8 +52,8 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 #### Apps
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,914 | 🐛 997 | 🌐 TypeScript | 📅 2026-09-11 - Secure emails for everybody.
-* [Flems](https://github.com/porsager/flems) ⭐ 538 | 🐛 28 | 🌐 JavaScript | 📅 2023-11-03 - Web playground & sandbox as an embeddable module.
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,914 | 🐛 998 | 🌐 TypeScript | 📅 2026-09-11 - Secure emails for everybody.
+* [Flems](https://github.com/porsager/flems) ⭐ 539 | 🐛 28 | 🌐 JavaScript | 📅 2023-11-03 - Web playground & sandbox as an embeddable module.
 * [Treehouse](https://github.com/treehousedev/treehouse) ⭐ 189 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-31 - Lightweight outliner app built with Deno and Mithril. Use in the browser or build your own custom app.
 * [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril) ⭐ 30 | 🐛 2 | 🌐 JavaScript | 📅 2018-11-05 - Server-side rendering example using [mithril-node-render](https://github.com/MithrilJS/mithril-node-render) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-19.
 * [mithril-slides](https://github.com/wulab/mithril-slides) ⭐ 24 | 🐛 5 | 🌐 HTML | 📅 2018-08-26 - Keynote-inspired presentation app.
@@ -95,7 +95,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 Mithril does not require specialized tools for testing, however the following have been developed as side projects to the main framework or by the community.
 
 * [Ospec](https://github.com/MithrilJS/mithril.js/tree/rewrite/ospec) ⭐ 14,499 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13 - Mithril's own fast test runner.
-* [Mithril Query](https://github.com/MithrilJS/mithril-query) ⭐ 106 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-17 - Query Mithril virtual dom for testing purposes.
+* [Mithril Query](https://github.com/MithrilJS/mithril-query) ⭐ 106 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-13 - Query Mithril virtual dom for testing purposes.
 
 ### Libraries, Components & Plugins
 
@@ -137,4 +137,4 @@ Mithril does not require specialized tools for testing, however the following ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
