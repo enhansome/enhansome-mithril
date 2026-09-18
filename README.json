@@ -110,11 +110,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T10:21:30Z",
+                "last_commit": "2026-09-18T09:42:35Z",
                 "open_issues": 973,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7921,
+                "stars": 7922,
                 "topics": [
                   "email",
                   "encryption",
@@ -164,7 +164,7 @@
                 "open_issues": 20,
                 "owner": "treehousedev",
                 "repo": "treehouse",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "deno",
                   "frontend",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:46:02.086Z",
+    "last_updated": "2026-09-18T10:21:00.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Mithril awesome",
