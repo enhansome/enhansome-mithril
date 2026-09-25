@@ -52,8 +52,8 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 #### Apps
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,942 | 🐛 978 | 🌐 TypeScript | 📅 2026-09-24 - Secure emails for everybody.
-* [Flems](https://github.com/porsager/flems) ⭐ 538 | 🐛 28 | 🌐 JavaScript | 📅 2023-11-03 - Web playground & sandbox as an embeddable module.
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,946 | 🐛 974 | 🌐 TypeScript | 📅 2026-09-25 - Secure emails for everybody.
+* [Flems](https://github.com/porsager/flems) ⭐ 537 | 🐛 28 | 🌐 JavaScript | 📅 2023-11-03 - Web playground & sandbox as an embeddable module.
 * [Treehouse](https://github.com/treehousedev/treehouse) ⭐ 190 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-31 - Lightweight outliner app built with Deno and Mithril. Use in the browser or build your own custom app.
 * [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril) ⭐ 30 | 🐛 2 | 🌐 JavaScript | 📅 2018-11-05 - Server-side rendering example using [mithril-node-render](https://github.com/MithrilJS/mithril-node-render) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-19.
 * [mithril-slides](https://github.com/wulab/mithril-slides) ⭐ 24 | 🐛 5 | 🌐 HTML | 📅 2018-08-26 - Keynote-inspired presentation app.
@@ -137,4 +137,4 @@ Mithril does not require specialized tools for testing, however the following ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
