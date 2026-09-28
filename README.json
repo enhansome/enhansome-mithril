@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14505,
+            "stars": 14506,
             "topics": [
               "framework",
               "javascript",
@@ -48,7 +48,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14505,
+            "stars": 14506,
             "topics": [
               "framework",
               "javascript",
@@ -77,7 +77,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14505,
+            "stars": 14506,
             "topics": [
               "framework",
               "javascript",
@@ -110,11 +110,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T19:16:17Z",
-                "open_issues": 979,
+                "last_commit": "2026-09-28T11:44:34Z",
+                "open_issues": 980,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7950,
+                "stars": 7956,
                 "topics": [
                   "email",
                   "encryption",
@@ -143,7 +143,7 @@
                 "open_issues": 28,
                 "owner": "porsager",
                 "repo": "flems",
-                "stars": 537,
+                "stars": 538,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:58:16.807Z"
@@ -670,7 +670,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14505,
+            "stars": 14506,
             "topics": [
               "framework",
               "javascript",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T11:08:33.201Z",
+    "last_updated": "2026-09-28T12:33:33.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Mithril awesome",
