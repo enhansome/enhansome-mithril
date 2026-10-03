@@ -111,7 +111,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-02T16:48:04Z",
-                "open_issues": 989,
+                "open_issues": 990,
                 "owner": "tutao",
                 "repo": "tutanota",
                 "stars": 7976,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:58:57.416Z",
+    "last_updated": "2026-10-03T10:54:37.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Mithril awesome",
