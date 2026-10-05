@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14506,
+            "stars": 14505,
             "topics": [
               "framework",
               "javascript",
@@ -48,7 +48,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14506,
+            "stars": 14505,
             "topics": [
               "framework",
               "javascript",
@@ -77,7 +77,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14506,
+            "stars": 14505,
             "topics": [
               "framework",
               "javascript",
@@ -110,8 +110,8 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T16:48:04Z",
-                "open_issues": 992,
+                "last_commit": "2026-10-05T13:14:01Z",
+                "open_issues": 998,
                 "owner": "tutao",
                 "repo": "tutanota",
                 "stars": 7982,
@@ -670,7 +670,7 @@
             "open_issues": 26,
             "owner": "MithrilJS",
             "repo": "mithril.js",
-            "stars": 14506,
+            "stars": 14505,
             "topics": [
               "framework",
               "javascript",
@@ -695,8 +695,8 @@
             "id": 24449985,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T07:30:49Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-04T19:45:34Z",
+            "open_issues": 4,
             "owner": "MithrilJS",
             "repo": "mithril-query",
             "stars": 106,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:36:55.482Z",
+    "last_updated": "2026-10-05T13:14:13.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Mithril awesome",
