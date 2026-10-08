@@ -110,11 +110,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T12:19:17Z",
-                "open_issues": 983,
+                "last_commit": "2026-10-08T12:14:13Z",
+                "open_issues": 979,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7985,
+                "stars": 7987,
                 "topics": [
                   "email",
                   "encryption",
@@ -695,8 +695,8 @@
             "id": 24449985,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T19:45:34Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-07T14:32:46Z",
+            "open_issues": 3,
             "owner": "MithrilJS",
             "repo": "mithril-query",
             "stars": 106,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T12:25:36.920Z",
+    "last_updated": "2026-10-08T12:35:19.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Mithril awesome",
