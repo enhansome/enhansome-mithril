@@ -52,7 +52,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 #### Apps
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,003 | 🐛 970 | 🌐 TypeScript | 📅 2026-10-12 - Secure emails for everybody.
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,006 | 🐛 950 | 🌐 TypeScript | 📅 2026-10-13 - Secure emails for everybody.
 * [Flems](https://github.com/porsager/flems) ⭐ 538 | 🐛 28 | 🌐 JavaScript | 📅 2023-11-03 - Web playground & sandbox as an embeddable module.
 * [Treehouse](https://github.com/treehousedev/treehouse) ⭐ 190 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-31 - Lightweight outliner app built with Deno and Mithril. Use in the browser or build your own custom app.
 * [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril) ⭐ 30 | 🐛 2 | 🌐 JavaScript | 📅 2018-11-05 - Server-side rendering example using [mithril-node-render](https://github.com/MithrilJS/mithril-node-render) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-19.
@@ -85,7 +85,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 * [mithril-starter-kit](https://github.com/dhinesh03/mithril-starter-kit) ⚠️ Archived - A boilerplate Mithril application using Webpack 4, ES6, Sass/SCSS, Js and scss hot reload and eslint
 * [sourcestack](https://github.com/stackplanet/sourcestack) ⭐ 48 | 🐛 23 | 🌐 TypeScript | 📅 2023-01-11 - Template for full-stack Typescript web apps on AWS, using Mithril on the front end.
-* [Game development with Mithril/THREE.js/Typescript](https://github.com/spacejack/three-mithril-ts) ⭐ 40 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-10
+* [Game development with Mithril/THREE.js/Typescript](https://github.com/spacejack/three-mithril-ts) ⭐ 39 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-10
 * [Mithril Starter Project with Rollup, Babel, LiveReload, Jest and ESLint](https://github.com/ArthurClemens/mithril-starter-rollup) ⚠️ Archived
 * [Mithril/Typescript/PostCSS/Browserify/HMR/Budō](https://github.com/spacejack/mithril-browserify-ts-budo) ⭐ 18 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-10
 * [Mithril/Typescript/SASS/PostCSS/Webpack2](https://github.com/spacejack/mithril-webpack-ts) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-07
@@ -137,4 +137,4 @@ Mithril does not require specialized tools for testing, however the following ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
